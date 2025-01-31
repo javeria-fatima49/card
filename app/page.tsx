@@ -186,7 +186,7 @@ export default function ThankYouCard() {
                 transition={{ delay: 0.7 }}
               >
                 <p className="italic text-sm sm:text-lg text-white/90 font-light">
-                  "A great teacher takes a hand, opens a mind, and touches a heart."
+                &apos;A great teacher takes a hand, opens a mind, and touches a heart.&apos;
                 </p>
               </motion.div>
             </div>
@@ -240,7 +240,7 @@ patience, and dedication have left a lasting imprint on each one of us.
 In your classes, we didn&apos;t just learn the subject matter; we learned the values of hard work, perseverance, and the importance of
  self-belief. You&apos;ve equipped us with skills and knowledge that will stay with us forever, shaping not only our academic paths 
  but also our personal growth.
-Thank you, Sir Ali, for being a constant source of guidance and inspiration. This is not goodbye; it's just a heartfelt thank 
+Thank you, Sir Ali, for being a constant source of guidance and inspiration. This is not goodbye; it&apos;s just a heartfelt thank 
 you for everything you&apos;ve given us. </p>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-4">
                   {memories.map((memory, index) => (
