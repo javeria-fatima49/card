@@ -233,15 +233,15 @@ export default function ThankYouCard() {
               >
                   <h2 className="-mt-4">  Dear Sir Ali Aftab,</h2>
                 <p className="text-gray-300 leading-relaxed text-base sm:text-base text-center font-serif">
-As we bid farewell to this chapter of our educational journey, we want to take a moment to express our deepest gratitude for everything you've done for us. Throughout our time together, 
-you’ve been so much more than just a teacher—you’ve been a mentor, a guide, and a true inspiration. Your unwavering support, 
+As we bid farewell to this chapter of our educational journey, we want to take a moment to express our deepest gratitude for everything you&apos;ve done for us. Throughout our time together, 
+you&apos;ve been so much more than just a teacher—you&apos;ve been a mentor, a guide, and a true inspiration. Your unwavering support, 
 patience, and dedication have left a lasting imprint on each one of us.
 
-In your classes, we didn’t just learn the subject matter; we learned the values of hard work, perseverance, and the importance of
- self-belief. You’ve equipped us with skills and knowledge that will stay with us forever, shaping not only our academic paths 
+In your classes, we didn&apos;t just learn the subject matter; we learned the values of hard work, perseverance, and the importance of
+ self-belief. You&apos;ve equipped us with skills and knowledge that will stay with us forever, shaping not only our academic paths 
  but also our personal growth.
 Thank you, Sir Ali, for being a constant source of guidance and inspiration. This is not goodbye; it's just a heartfelt thank 
-you for everything you’ve given us. </p>
+you for everything you&apos;ve given us. </p>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-4">
                   {memories.map((memory, index) => (
                     <motion.div
